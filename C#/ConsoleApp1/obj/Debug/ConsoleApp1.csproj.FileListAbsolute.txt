@@ -1,0 +1,6 @@
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MONSTER EMAIL GEN.exe.config
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MONSTER EMAIL GEN.exe
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MONSTER EMAIL GEN.pdb
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MONSTER EMAIL GEN.exe
+C:\Users\MONSTERMC\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\MONSTER EMAIL GEN.pdb
